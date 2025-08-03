@@ -205,7 +205,7 @@ alemeno_credit_backend/
 ## Contact / Support
 
 For any issues or questions, refer to the project maintainer: Siddharth Seth  
-Email: [sethsiddharth345@gmail.com] (update accordingly)
+Email: [sethsiddharth345@gmail.com] 
 
 ---
 
